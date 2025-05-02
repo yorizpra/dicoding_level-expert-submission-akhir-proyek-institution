@@ -53,10 +53,6 @@ Dashboard ini menampilkan analisis faktor risiko dropout secara visual untuk mem
 Akses Dashboard:
 ([Looker Studio Dashboard](https://lookerstudio.google.com/reporting/1aa7f661-87ed-4f09-9f22-1b392e2f7442))
 Looker Studio Dashboard
-Kredensial:
-Email: root@mail.com
-Password: root123
-(Catatan: Kredensial dan link bersifat placeholder untuk keperluan submission.)
 
 ## Menjalankan Sistem Machine Learning
 **Lokal**
