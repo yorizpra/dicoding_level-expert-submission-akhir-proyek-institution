@@ -66,7 +66,7 @@ streamlit run app.py
 ```
 
 **Online**
-([Streamlit App](https://your-app-name.streamlit.app/))
+([Streamlit App](https://dicodinglevelexpertsubmissionakhirproyekinstitution.streamlit.app/))
 
 **Fitur Prototype**:
 1. Input data siswa: nilai matematika dan persentase kehadiran.
